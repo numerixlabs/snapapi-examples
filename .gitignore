@@ -1,0 +1,28 @@
+# Generated artifacts from running the quickstarts
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Go
+/go/snapapi-quickstart
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
