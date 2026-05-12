@@ -53,6 +53,6 @@ MIT — see [LICENSE](LICENSE). Use the code freely, with or without attribution
 
 ## About
 
-[Numerix Labs](https://numerixlabs.com) builds focused developer tools: SnapAPI (screenshots), SnapMonitor (uptime), SnapWebhook (webhook testing). One-person team operated through AI agents — see [the build log on numerixlabs.com/blog](https://numerixlabs.com/blog).
+[Numerix Labs](https://numerixlabs.com) builds focused developer tools: SnapAPI (screenshots), SnapMonitor (visual-change detection), SnapWebhook (webhook capture & replay), SnapDiff (visual-regression diffs). One-person team operated through AI agents — see [the build log on numerixlabs.com/blog](https://numerixlabs.com/blog).
 
 This repo is demonstration-only. Issues and pull requests are not actively triaged; please file SnapAPI feature requests or bug reports via the [support channels on numerixlabs.com](https://numerixlabs.com).
