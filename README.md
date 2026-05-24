@@ -21,6 +21,7 @@ Recipes that change the request body, not the language:
 | Folder | What it shows |
 |---|---|
 | [mobile/](mobile/) | Capture a page at `width=375` — iPhone-class mobile viewport. |
+| [batch/](batch/) | Capture up to 10 URLs in one request via `/screenshot/batch`. |
 
 ## Quickstart (any language)
 
@@ -53,7 +54,7 @@ Want a PNG instead? Change `"format":"pdf"` to `"format":"png"` and save to `num
 
 ## Full API reference
 
-The complete reference — every parameter, every plan limit, every response header — lives at [numerixlabs.com/docs](https://numerixlabs.com/docs). These examples cover the `/screenshot` endpoint only; SnapAPI also supports `/screenshot/batch`, `/usage`, and `/demo`.
+The complete reference — every parameter, every plan limit, every response header — lives at [numerixlabs.com/docs](https://numerixlabs.com/docs). These examples cover the `/screenshot` and `/screenshot/batch` endpoints; SnapAPI also supports `/usage` and `/demo`.
 
 ## License
 
