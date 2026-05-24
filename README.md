@@ -14,6 +14,14 @@ Every example here hits the production endpoint at `https://api.numerixlabs.com/
 | [php/](php/) | PHP 8.0+ with cURL extension | Procedural cURL with a binary write. |
 | [go/](go/) | Go 1.21+ | Single-file `main.go`, standard library only. |
 
+## Scenarios
+
+Recipes that change the request body, not the language:
+
+| Folder | What it shows |
+|---|---|
+| [mobile/](mobile/) | Capture a page at `width=375` — iPhone-class mobile viewport. |
+
 ## Quickstart (any language)
 
 1. [Sign up for a free SnapAPI trial](https://numerixlabs.com/trial) — 100 screenshots, no credit card.
